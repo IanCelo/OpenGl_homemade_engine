@@ -1,0 +1,3 @@
+TYPE POST_PROCESS
+VERT Resource/Shader/GaussianBlurFragmentShader.vert
+FRAG Resource/Shader/GaussianBlurFragmentShader.frag

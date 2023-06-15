@@ -1,0 +1,29 @@
+GAMEOBJECT	Button_01 1 1 Default
+TRANSFORM	0 3.75 0/0 0 0/4 2 2
+SPRITE		Assets/ButtonPlay.png 1 1 1
+BUTTON		ButtonPlayNewGame
+BCOLLIDER2	0 0/1 1
+END
+
+GAMEOBJECT	Button_02 1 1 Default
+TRANSFORM	0 1.25 0/0 0 0/4 2 2
+SPRITE		Assets/ButtonEdit.png 1 1 1
+BUTTON		ButtonEditNewGame
+BCOLLIDER2	0 0/1 1
+END
+
+GAMEOBJECT	Button_03 1 1 Default
+TRANSFORM	0 -1.25 0/0 0 0/4 2 2
+SPRITE		Assets/ButtonLoad.png 1 1 1
+BUTTON		ButtonLoad
+BCOLLIDER2	0 0/1 1
+END
+
+GAMEOBJECT	Button_04 1 1 Default
+TRANSFORM	0 -3.75 0/0 0 0/4 2 2
+SPRITE		Assets/ButtonQuit.png 1 1 1
+BUTTON		ButtonQuit
+BCOLLIDER2	0 0/1 1
+END
+
+

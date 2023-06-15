@@ -1,0 +1,3 @@
+TYPE POST_PROCESS
+VERT Resource/Shader/PostProcessVertexShader.vert
+FRAG Resource/Shader/PostProcessFragmentShader.frag

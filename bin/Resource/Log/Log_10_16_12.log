@@ -1,0 +1,461 @@
+[10:16:16]	SUCCESS | Loaded texture "Assets/none.png"
+[10:16:17]	INFO    | + Loading Shaders "Resource/Shader/PostProcess.shad"
+[10:16:17]	SUCCESS | Vertex shader ->	Successfully compiled
+[10:16:17]	SUCCESS | Fragment shader ->	Successfully compiled
+[10:16:17]	SUCCESS | Shader program ->	Successfully linked
+[10:16:17]	INFO    | + Loading Shaders "Resource/Shader/GaussianBlur.shad"
+[10:16:17]	SUCCESS | Vertex shader ->	Successfully compiled
+[10:16:17]	SUCCESS | Fragment shader ->	Successfully compiled
+[10:16:17]	SUCCESS | Shader program ->	Successfully linked
+[10:16:17]	ERROR   | Failed to open file "".
+[10:16:17]	INFO    | - Unloading scene
+[10:16:17]	        |
+[10:16:17]	        |------------------------------------------------------------------------
+[10:16:17]	        |
+[10:16:17]	ERROR   | Failed to load scene
+[10:20:36]	INFO    | + Loading Game Object "BackGroung"
+[10:20:36]	INFO    | +	 Adding transform data to new gameObject
+[10:20:36]	INFO    | + Loading Shaders "Resource/Shader/Sprite.shad"
+[10:20:36]	SUCCESS | Vertex shader ->	Successfully compiled
+[10:20:36]	SUCCESS | Fragment shader ->	Successfully compiled
+[10:20:36]	SUCCESS | Shader program ->	Successfully linked
+[10:20:36]	INFO    | +	 Adding Sprite to new gameObject
+[10:20:36]	SUCCESS | Loaded texture "Assets/BlankSprite.png"
+[10:20:36]	        |
+[10:20:36]	        |------------------------------------------------------------------------
+[10:20:36]	        |
+[10:20:36]	INFO    | + Loading Game Object "Button_01"
+[10:20:36]	INFO    | +	 Adding transform data to new gameObject
+[10:20:36]	INFO    | +	 Adding Sprite to new gameObject
+[10:20:36]	SUCCESS | Loaded texture "Assets/ButtonPlay.png"
+[10:20:36]	INFO    | +	 Adding button script to new gameObject
+[10:20:36]	INFO    | +	 Adding box collider 2D to new gameObject
+[10:20:36]	        |
+[10:20:36]	        |------------------------------------------------------------------------
+[10:20:36]	        |
+[10:20:36]	INFO    | + Loading Game Object "Button_02"
+[10:20:36]	INFO    | +	 Adding transform data to new gameObject
+[10:20:36]	INFO    | +	 Adding Sprite to new gameObject
+[10:20:36]	SUCCESS | Loaded texture "Assets/ButtonLoad.png"
+[10:20:36]	INFO    | +	 Adding button script to new gameObject
+[10:20:36]	INFO    | +	 Adding box collider 2D to new gameObject
+[10:20:36]	        |
+[10:20:36]	        |------------------------------------------------------------------------
+[10:20:36]	        |
+[10:20:36]	INFO    | + Loading Game Object "Button_03"
+[10:20:36]	INFO    | +	 Adding transform data to new gameObject
+[10:20:36]	INFO    | +	 Adding Sprite to new gameObject
+[10:20:36]	SUCCESS | Loaded texture "Assets/ButtonQuit.png"
+[10:20:36]	INFO    | +	 Adding button script to new gameObject
+[10:20:36]	INFO    | +	 Adding box collider 2D to new gameObject
+[10:20:36]	        |
+[10:20:36]	        |------------------------------------------------------------------------
+[10:20:36]	        |
+[10:20:36]	INFO    | + Loading Game Object "Loading"
+[10:20:36]	INFO    | +	 Adding transform data to new gameObject
+[10:20:36]	INFO    | +	 Adding Sprite to new gameObject
+[10:20:36]	SUCCESS | Loaded texture "Assets/Loading.png"
+[10:20:36]	        |
+[10:20:36]	        |------------------------------------------------------------------------
+[10:20:36]	        |
+[10:20:36]	INFO    | + Loading Game Object "Loading"
+[10:20:36]	INFO    | +	 Adding transform data to new gameObject
+[10:20:36]	INFO    | +	 Adding Sprite to new gameObject
+[10:20:36]	SUCCESS | Loaded texture "Assets/Loading.png"
+[10:20:36]	        |
+[10:20:36]	        |------------------------------------------------------------------------
+[10:20:36]	        |
+[10:20:36]	INFO    | +	 Transform parent found
+[10:20:36]	INFO    | +	 Transform parent found
+[10:20:36]	        |
+[10:20:36]	        |------------------------------------------------------------------------
+[10:20:36]	        |
+[10:20:36]	SUCCESS | Successfully loaded a new scene
+[10:20:56]	INFO    | + Loading Game Object "PlatformGround"
+[10:20:56]	INFO    | +	 Adding transform data to new gameObject
+[10:20:56]	INFO    | + Loading Shaders "Resource/Shader/Default.shad"
+[10:20:56]	SUCCESS | Vertex shader ->	Successfully compiled
+[10:20:56]	SUCCESS | Fragment shader ->	Successfully compiled
+[10:20:57]	SUCCESS | Shader program ->	Successfully linked
+[10:20:57]	INFO    | +	 Adding Model to new gameObject
+[10:20:57]	INFO    | +		 Loading new OBJ file
+[10:20:57]	        |
+[10:20:57]	        |------------------------------------------------------------------------
+[10:20:57]	        |
+[10:20:57]	SUCCESS | Loaded file "Assets/wallrock.obj"
+[10:20:57]	SUCCESS | Loaded file "Assets/wallrock.mtl"
+[10:21:02]	SUCCESS | Loaded texture "Assets/wall_rock_basecolor.png"
+[10:21:02]	SUCCESS | Loaded file "Assets/dirt.mtl"
+[10:21:05]	SUCCESS | Loaded texture "Assets/Dirt_basecolor.png"
+[10:21:05]	INFO    | +	 Adding box collider 3D to new gameObject
+[10:21:05]	        |
+[10:21:05]	        |------------------------------------------------------------------------
+[10:21:05]	        |
+[10:21:05]	INFO    | + Loading Game Object "Platform2"
+[10:21:05]	INFO    | +	 Adding transform data to new gameObject
+[10:21:05]	INFO    | +	 Adding box collider 3D to new gameObject
+[10:21:05]	        |
+[10:21:05]	        |------------------------------------------------------------------------
+[10:21:05]	        |
+[10:21:05]	INFO    | + Loading Game Object "PlatformGFX2"
+[10:21:05]	INFO    | +	 Adding transform data to new gameObject
+[10:21:05]	INFO    | +	 Adding Model to new gameObject
+[10:21:05]	        |
+[10:21:05]	        |------------------------------------------------------------------------
+[10:21:05]	        |
+[10:21:05]	SUCCESS | Loaded file "Assets/wallrock.mtl"
+[10:21:10]	SUCCESS | Loaded texture "Assets/wall_rock_basecolor.png"
+[10:21:10]	        |
+[10:21:10]	        |------------------------------------------------------------------------
+[10:21:10]	        |
+[10:21:10]	INFO    | + Loading Game Object "Platform3"
+[10:21:10]	INFO    | +	 Adding transform data to new gameObject
+[10:21:10]	INFO    | +	 Adding box collider 3D to new gameObject
+[10:21:10]	        |
+[10:21:10]	        |------------------------------------------------------------------------
+[10:21:10]	        |
+[10:21:10]	INFO    | + Loading Game Object "PlatformGFX3"
+[10:21:10]	INFO    | +	 Adding transform data to new gameObject
+[10:21:10]	INFO    | +	 Adding Model to new gameObject
+[10:21:10]	INFO    | +		 Loading new OBJ file
+[10:21:10]	        |
+[10:21:10]	        |------------------------------------------------------------------------
+[10:21:10]	        |
+[10:21:10]	SUCCESS | Loaded file "Assets/dirt.obj"
+[10:21:10]	SUCCESS | Loaded file "Assets/dirt.mtl"
+[10:21:12]	SUCCESS | Loaded texture "Assets/Dirt_basecolor.png"
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "PlatformGFX3"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Model to new gameObject
+[10:21:13]	INFO    | +		 Loading new OBJ file
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	ERROR   | Failed to open file "Assets/ouaiouaiouai.obj"
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Platform4"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding box collider 3D to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "PlatformGFX4"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Model to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Platform5"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding box collider 3D to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "PlatformGFX5"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Model to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Player"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding player script to new gameObject
+[10:21:13]	INFO    | +	 Adding light to new gameObject
+[10:21:13]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "PlayerGFX"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Model to new gameObject
+[10:21:13]	INFO    | +		 Loading new OBJ file
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	SUCCESS | Loaded file "Assets/Shapes/sphere.obj"
+[10:21:13]	SUCCESS | Loaded file "Assets/Shapes/sphere.mtl"
+[10:21:13]	SUCCESS | Loaded file "Assets/Shapes/sphere.mtl"
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Main_Camera"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding camera to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Light_01"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding light to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Light_02"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding light to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "BackGroungPauseMenu"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Sprite to new gameObject
+[10:21:13]	SUCCESS | Loaded texture "Assets/BlankSprite.png"
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Button_01"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Sprite to new gameObject
+[10:21:13]	SUCCESS | Loaded texture "Assets/ButtonResume.png"
+[10:21:13]	INFO    | +	 Adding button script to new gameObject
+[10:21:13]	INFO    | +	 Adding box collider 2D to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Button_02"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Sprite to new gameObject
+[10:21:13]	SUCCESS | Loaded texture "Assets/ButtonSave.png"
+[10:21:13]	INFO    | +	 Adding button script to new gameObject
+[10:21:13]	INFO    | +	 Adding box collider 2D to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Button_03"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding Sprite to new gameObject
+[10:21:13]	SUCCESS | Loaded texture "Assets/ButtonBack.png"
+[10:21:13]	INFO    | +	 Adding button script to new gameObject
+[10:21:13]	INFO    | +	 Adding box collider 2D to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Menu"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | + Loading Game Object "Light_03"
+[10:21:13]	INFO    | +	 Adding transform data to new gameObject
+[10:21:13]	INFO    | +	 Adding light to new gameObject
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	INFO    | +	 Transform parent found
+[10:21:13]	        |
+[10:21:13]	        |------------------------------------------------------------------------
+[10:21:13]	        |
+[10:21:13]	SUCCESS | Successfully loaded a new scene
+[10:24:34]	INFO    | - Destroying Graph
+[10:24:34]	INFO    | - Unloading scene
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Loading
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Loading
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Button_03
+[10:24:34]	INFO    | -		Destroying Component Box Collider 2D
+[10:24:34]	INFO    | -		Destroying Component Button
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Button_02
+[10:24:34]	INFO    | -		Destroying Component Box Collider 2D
+[10:24:34]	INFO    | -		Destroying Component Button
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Button_01
+[10:24:34]	INFO    | -		Destroying Component Box Collider 2D
+[10:24:34]	INFO    | -		Destroying Component Button
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : BackGroung
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | - Unloading scene
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Light_03
+[10:24:34]	INFO    | -		Destroying Component Light
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Menu
+[10:24:34]	INFO    | -		Destroying Component PauseMenu
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Button_03
+[10:24:34]	INFO    | -		Destroying Component Box Collider 2D
+[10:24:34]	INFO    | -		Destroying Component Button
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Button_02
+[10:24:34]	INFO    | -		Destroying Component Box Collider 2D
+[10:24:34]	INFO    | -		Destroying Component Button
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Button_01
+[10:24:34]	INFO    | -		Destroying Component Box Collider 2D
+[10:24:34]	INFO    | -		Destroying Component Button
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : BackGroungPauseMenu
+[10:24:34]	INFO    | -		Destroying Component Sprite
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Light_02
+[10:24:34]	INFO    | -		Destroying Component Light
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Light_01
+[10:24:34]	INFO    | -		Destroying Component Light
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Main_Camera
+[10:24:34]	INFO    | -		Destroying Component Camera
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : PlayerGFX
+[10:24:34]	INFO    | -		Destroying Component Sphere
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Player
+[10:24:34]	INFO    | -		Destroying Component Sphere Collider 3D
+[10:24:34]	INFO    | -		Destroying Component 
+[10:24:34]	INFO    | -		Destroying Component RigidBody 3D
+[10:24:34]	INFO    | -		Destroying Component 
+[10:24:34]	INFO    | -		Destroying Component Player
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : PlatformGFX5
+[10:24:34]	INFO    | -		Destroying Component DirtBlock
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Platform5
+[10:24:34]	INFO    | -		Destroying Component Box Collider 3D
+[10:24:34]	INFO    | -		Destroying Component 
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : PlatformGFX4
+[10:24:34]	INFO    | -		Destroying Component DirtBlock
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : Platform4
+[10:24:34]	INFO    | -		Destroying Component Box Collider 3D
+[10:24:34]	INFO    | -		Destroying Component 
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:34]	        |
+[10:24:34]	        |------------------------------------------------------------------------
+[10:24:34]	        |
+[10:24:34]	INFO    | -	 Destroying Object : PlatformGFX3
+[10:24:34]	INFO    | -		Destroying Component Transform
+[10:24:35]	        |
+[10:24:35]	        |------------------------------------------------------------------------
+[10:24:35]	        |
+[10:24:35]	INFO    | -	 Destroying Object : PlatformGFX3
+[10:24:35]	INFO    | -		Destroying Component DirtBlock
+[10:24:35]	INFO    | -		Destroying Component Transform
+[10:24:35]	        |
+[10:24:35]	        |------------------------------------------------------------------------
+[10:24:35]	        |
+[10:24:35]	INFO    | -	 Destroying Object : Platform3
+[10:24:35]	INFO    | -		Destroying Component Box Collider 3D
+[10:24:35]	INFO    | -		Destroying Component 
+[10:24:35]	INFO    | -		Destroying Component Transform
+[10:24:35]	        |
+[10:24:35]	        |------------------------------------------------------------------------
+[10:24:35]	        |
+[10:24:35]	INFO    | -	 Destroying Object : PlatformGFX2
+[10:24:35]	INFO    | -		Destroying Component WallBlock
+[10:24:35]	INFO    | -		Destroying Component Transform
+[10:24:35]	        |
+[10:24:35]	        |------------------------------------------------------------------------
+[10:24:35]	        |
+[10:24:35]	INFO    | -	 Destroying Object : Platform2
+[10:24:35]	INFO    | -		Destroying Component Box Collider 3D
+[10:24:35]	INFO    | -		Destroying Component 
+[10:24:35]	INFO    | -		Destroying Component Transform
+[10:24:35]	        |
+[10:24:35]	        |------------------------------------------------------------------------
+[10:24:35]	        |
+[10:24:35]	INFO    | -	 Destroying Object : PlatformGround
+[10:24:35]	INFO    | -		Destroying Component Box Collider 3D
+[10:24:35]	INFO    | -		Destroying Component 
+[10:24:35]	INFO    | -		Destroying Component WallBlock
+[10:24:35]	INFO    | -		Destroying Component Transform
+[10:24:35]	        |
+[10:24:35]	        |------------------------------------------------------------------------
+[10:24:35]	        |
+[10:24:35]	INFO    | Closing program...

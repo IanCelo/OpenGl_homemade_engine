@@ -1,0 +1,17 @@
+[13:08:08]	SUCCESS | Loaded texture "Assets/none.png"
+[13:08:08]	INFO    | + Loading Shaders "Resource/Shader/PostProcess.shad"
+[13:08:08]	SUCCESS | Vertex shader ->	Successfully compiled
+[13:08:08]	SUCCESS | Fragment shader ->	Successfully compiled
+[13:08:08]	SUCCESS | Shader program ->	Successfully linked
+[13:08:08]	INFO    | + Loading Shaders "Resource/Shader/GaussianBlur.shad"
+[13:08:08]	SUCCESS | Vertex shader ->	Successfully compiled
+[13:08:08]	SUCCESS | Fragment shader ->	Successfully compiled
+[13:08:08]	SUCCESS | Shader program ->	Successfully linked
+[13:08:08]	ERROR   | Failed to open file "".
+[13:08:08]	INFO    | - Unloading scene
+[13:08:08]	        |
+[13:08:08]	        |------------------------------------------------------------------------
+[13:08:08]	        |
+[13:08:08]	ERROR   | Failed to load scene
+[13:08:35]	INFO    | - Destroying Graph
+[13:08:35]	INFO    | Closing program...

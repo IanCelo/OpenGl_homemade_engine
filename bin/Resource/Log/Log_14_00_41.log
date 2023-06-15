@@ -1,0 +1,21 @@
+[14:00:45]	FAILURE | Failed to load texture "Assets/none.png"
+[14:00:45]	ERROR   | Failed to open file "".
+[14:00:45]	INFO    | - Unloading scene
+[14:00:45]	        |
+[14:00:45]	        |------------------------------------------------------------------------
+[14:00:45]	        |
+[14:00:45]	ERROR   | Failed to load scene
+[14:01:29]	ERROR   | Failed to open file "Assets/MainMenu.scn".
+[14:01:29]	INFO    | - Unloading scene
+[14:01:29]	        |
+[14:01:29]	        |------------------------------------------------------------------------
+[14:01:29]	        |
+[14:01:29]	ERROR   | Failed to load scene
+[14:01:29]	ERROR   | Failed to open file "Assets/MainMenu.scn".
+[14:01:29]	INFO    | - Unloading scene
+[14:01:29]	        |
+[14:01:29]	        |------------------------------------------------------------------------
+[14:01:29]	        |
+[14:01:29]	ERROR   | Failed to load scene
+[14:01:58]	INFO    | - Destroying Graph
+[14:01:58]	INFO    | Closing program...

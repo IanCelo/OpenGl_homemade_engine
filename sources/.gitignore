@@ -1,0 +1,21 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+[Aa]ssets/
+![Aa]ssets/.gitkeep
+
+[Rr]esource/[Ll]og/*.log
+
+imgui.ini

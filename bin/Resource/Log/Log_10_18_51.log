@@ -1,0 +1,23 @@
+[10:18:52]	INFO    | Creating GLFW Window
+[10:18:54]	SUCCESS | Loaded texture "Assets/none.png"
+[10:18:54]	INFO    | + Loading Shaders "Resource/Shader/PostProcess.shad"
+[10:18:54]	SUCCESS | Vertex Shader ->	Successfully compiled
+[10:18:54]	SUCCESS | Fragment Shader ->	Successfully compiled
+[10:18:54]	SUCCESS | Shader program ->	Successfully linked
+[10:18:54]	INFO    | + Loading Shaders "Resource/Shader/GaussianBlur.shad"
+[10:18:54]	SUCCESS | Vertex Shader ->	Successfully compiled
+[10:18:55]	SUCCESS | Fragment Shader ->	Successfully compiled
+[10:18:55]	SUCCESS | Shader program ->	Successfully linked
+[10:18:55]	ERROR   | Failed to open file "Assets/defaultCubeMap.cubemap"
+[10:18:55]	INFO    | + Loading Shaders "Resource/Shader/CubeMap.shad"
+[10:18:55]	SUCCESS | Vertex Shader ->	Successfully compiled
+[10:18:55]	SUCCESS | Fragment Shader ->	Successfully compiled
+[10:18:55]	SUCCESS | Shader program ->	Successfully linked
+[10:18:55]	ERROR   | Failed to open file "".
+[10:18:55]	INFO    | - Unloading scene
+[10:18:55]	ERROR   | Failed to load scene
+[10:18:55]	        |
+[10:18:55]	        |------------------------------------------------------------------------
+[10:18:55]	        |
+[10:18:56]	INFO    | - Destroying Graph
+[10:18:56]	INFO    | Closing program...

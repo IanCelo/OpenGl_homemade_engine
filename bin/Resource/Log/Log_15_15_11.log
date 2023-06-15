@@ -1,0 +1,122 @@
+[15:15:12]	INFO    | Creating GLFW Window
+[15:15:15]	INFO    | Creating ResourcesManager
+[15:15:15]	SUCCESS | FreeType -> loaded font : "Resource/Fonts/abnes.ttf"
+[15:15:15]	SUCCESS | FreeType -> loaded font : "Resource/Fonts/arial.ttf"
+[15:15:15]	SUCCESS | Loaded texture "Assets/none.png"
+[15:15:15]	INFO    | + Loading Shaders "Resource/Shader/Text.shad"
+[15:15:15]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:15:15]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:15:15]	SUCCESS | Shader program ->	Successfully linked
+[15:15:15]	        |
+[15:15:15]	        |------------------------------------------------------------------------
+[15:15:15]	        |
+[15:15:15]	INFO    | + Loading Shaders "Resource/Shader/PostProcess.shad"
+[15:15:15]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:15:15]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:15:15]	SUCCESS | Shader program ->	Successfully linked
+[15:15:15]	        |
+[15:15:15]	        |------------------------------------------------------------------------
+[15:15:15]	        |
+[15:15:15]	INFO    | + Loading Shaders "Resource/Shader/GaussianBlur.shad"
+[15:15:15]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:15:15]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:15:15]	SUCCESS | Shader program ->	Successfully linked
+[15:15:15]	        |
+[15:15:15]	        |------------------------------------------------------------------------
+[15:15:15]	        |
+[15:15:15]	SUCCESS | Opened file "Assets/defaultCubeMap.cubemap"
+[15:15:16]	INFO    | + Loading Shaders "Resource/Shader/CubeMap.shad"
+[15:15:16]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:15:16]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:15:16]	SUCCESS | Shader program ->	Successfully linked
+[15:15:16]	        |
+[15:15:16]	        |------------------------------------------------------------------------
+[15:15:16]	        |
+[15:15:16]	INFO    | + Loading Shaders "Resource/Shader/Sprite.shad"
+[15:15:16]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:15:16]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:15:16]	SUCCESS | Shader program ->	Successfully linked
+[15:15:16]	        |
+[15:15:16]	        |------------------------------------------------------------------------
+[15:15:16]	        |
+[15:15:16]	SUCCESS | Loaded texture "Assets/Loading.png"
+[15:15:16]	INFO    | + Loading Game Object "Button_01"
+[15:15:16]	INFO    | +	 Adding transform data to new gameObject
+[15:15:16]	INFO    | +	 Adding Sprite to new gameObject
+[15:15:16]	SUCCESS | Loaded texture "Assets/ButtonPlay.png"
+[15:15:16]	INFO    | +	 Adding button script to new gameObject
+[15:15:16]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:15:17]	        |
+[15:15:17]	        |------------------------------------------------------------------------
+[15:15:17]	        |
+[15:15:17]	INFO    | + Loading Game Object "Button_02"
+[15:15:17]	INFO    | +	 Adding transform data to new gameObject
+[15:15:17]	INFO    | +	 Adding Sprite to new gameObject
+[15:15:17]	SUCCESS | Loaded texture "Assets/ButtonEdit.png"
+[15:15:17]	INFO    | +	 Adding button script to new gameObject
+[15:15:17]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:15:17]	        |
+[15:15:17]	        |------------------------------------------------------------------------
+[15:15:17]	        |
+[15:15:17]	INFO    | + Loading Game Object "Button_03"
+[15:15:17]	INFO    | +	 Adding transform data to new gameObject
+[15:15:17]	INFO    | +	 Adding Sprite to new gameObject
+[15:15:17]	SUCCESS | Loaded texture "Assets/ButtonLoad.png"
+[15:15:17]	INFO    | +	 Adding button script to new gameObject
+[15:15:17]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:15:17]	        |
+[15:15:17]	        |------------------------------------------------------------------------
+[15:15:17]	        |
+[15:15:17]	INFO    | + Loading Game Object "Button_04"
+[15:15:17]	INFO    | +	 Adding transform data to new gameObject
+[15:15:17]	INFO    | +	 Adding Sprite to new gameObject
+[15:15:17]	SUCCESS | Loaded texture "Assets/ButtonQuit.png"
+[15:15:17]	INFO    | +	 Adding button script to new gameObject
+[15:15:17]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:15:17]	        |
+[15:15:17]	        |------------------------------------------------------------------------
+[15:15:17]	        |
+[15:15:17]	        |
+[15:15:17]	        |------------------------------------------------------------------------
+[15:15:17]	        |
+[15:15:17]	SUCCESS | Successfully loaded a new scene
+[15:15:17]	        |
+[15:15:17]	        |------------------------------------------------------------------------
+[15:15:17]	        |
+[15:15:19]	INFO    | - Destroying Graph
+[15:15:19]	INFO    | - Unloading scene
+[15:15:19]	INFO    | -	 Destroying Object : Button_04
+[15:15:19]	INFO    | -		Destroying Component Transform
+[15:15:19]	INFO    | -		Destroying Component Box Collider 2D
+[15:15:19]	INFO    | -		Destroying Component Button
+[15:15:19]	INFO    | -		Destroying Component Sprite
+[15:15:19]	        |
+[15:15:19]	        |------------------------------------------------------------------------
+[15:15:19]	        |
+[15:15:19]	INFO    | -	 Destroying Object : Button_03
+[15:15:19]	INFO    | -		Destroying Component Transform
+[15:15:19]	INFO    | -		Destroying Component Box Collider 2D
+[15:15:19]	INFO    | -		Destroying Component Button
+[15:15:19]	INFO    | -		Destroying Component Sprite
+[15:15:19]	        |
+[15:15:19]	        |------------------------------------------------------------------------
+[15:15:19]	        |
+[15:15:19]	INFO    | -	 Destroying Object : Button_02
+[15:15:19]	INFO    | -		Destroying Component Transform
+[15:15:19]	INFO    | -		Destroying Component Box Collider 2D
+[15:15:19]	INFO    | -		Destroying Component Button
+[15:15:19]	INFO    | -		Destroying Component Sprite
+[15:15:19]	        |
+[15:15:19]	        |------------------------------------------------------------------------
+[15:15:19]	        |
+[15:15:19]	INFO    | -	 Destroying Object : Button_01
+[15:15:19]	INFO    | -		Destroying Component Transform
+[15:15:19]	INFO    | -		Destroying Component Box Collider 2D
+[15:15:19]	INFO    | -		Destroying Component Button
+[15:15:19]	INFO    | -		Destroying Component Sprite
+[15:15:19]	        |
+[15:15:19]	        |------------------------------------------------------------------------
+[15:15:19]	        |
+[15:15:19]	INFO    | -		Destroying Component Transform
+[15:15:19]	INFO    | -		Destroying Component 
+[15:15:19]	INFO    | Closing program...

@@ -1,0 +1,3 @@
+TYPE SPRITE_2D
+VERT Resource/Shader/SpriteVertexShader.vert 
+FRAG Resource/Shader/SpriteFragmentShader.frag 

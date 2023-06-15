@@ -1,0 +1,3 @@
+TYPE SHADER_3D
+VERT Resource/Shader/ParticleShader.vert 
+FRAG Resource/Shader/ParticleShader.frag 

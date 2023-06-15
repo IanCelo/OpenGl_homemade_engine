@@ -1,0 +1,3 @@
+TYPE CUBE_MAP
+VERT Resource/Shader/CubeMapVertexShader.vert
+FRAG Resource/Shader/CubeMapFragmentShader.frag

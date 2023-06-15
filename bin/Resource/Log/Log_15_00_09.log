@@ -1,0 +1,2567 @@
+[15:00:09]	INFO    | Creating GLFW Window
+[15:00:12]	INFO    | Creating ResourcesManager
+[15:00:12]	SUCCESS | FreeType -> loaded font : "Resource/Fonts/abnes.ttf"
+[15:00:12]	SUCCESS | FreeType -> loaded font : "Resource/Fonts/arial.ttf"
+[15:00:12]	SUCCESS | Loaded texture "Assets/none.png"
+[15:00:12]	INFO    | + Loading Shaders "Resource/Shader/Text.shad"
+[15:00:12]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:00:12]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:00:12]	SUCCESS | Shader program ->	Successfully linked
+[15:00:12]	        |
+[15:00:12]	        |------------------------------------------------------------------------
+[15:00:12]	        |
+[15:00:12]	INFO    | + Loading Shaders "Resource/Shader/PostProcess.shad"
+[15:00:12]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:00:12]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:00:12]	SUCCESS | Shader program ->	Successfully linked
+[15:00:12]	        |
+[15:00:12]	        |------------------------------------------------------------------------
+[15:00:12]	        |
+[15:00:12]	INFO    | + Loading Shaders "Resource/Shader/GaussianBlur.shad"
+[15:00:12]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:00:12]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:00:12]	SUCCESS | Shader program ->	Successfully linked
+[15:00:12]	        |
+[15:00:12]	        |------------------------------------------------------------------------
+[15:00:12]	        |
+[15:00:12]	SUCCESS | Opened file "Assets/defaultCubeMap.cubemap"
+[15:00:13]	INFO    | + Loading Shaders "Resource/Shader/CubeMap.shad"
+[15:00:13]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:00:13]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:00:13]	SUCCESS | Shader program ->	Successfully linked
+[15:00:13]	        |
+[15:00:13]	        |------------------------------------------------------------------------
+[15:00:13]	        |
+[15:00:13]	INFO    | + Loading Shaders "Resource/Shader/Sprite.shad"
+[15:00:13]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:00:13]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:00:13]	SUCCESS | Shader program ->	Successfully linked
+[15:00:13]	        |
+[15:00:13]	        |------------------------------------------------------------------------
+[15:00:13]	        |
+[15:00:13]	SUCCESS | Loaded texture "Assets/Loading.png"
+[15:00:13]	INFO    | + Loading Game Object "Button_01"
+[15:00:13]	INFO    | +	 Adding transform data to new gameObject
+[15:00:13]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:13]	SUCCESS | Loaded texture "Assets/ButtonPlay.png"
+[15:00:13]	INFO    | +	 Adding button script to new gameObject
+[15:00:13]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:00:13]	        |
+[15:00:13]	        |------------------------------------------------------------------------
+[15:00:13]	        |
+[15:00:13]	INFO    | + Loading Game Object "Button_02"
+[15:00:13]	INFO    | +	 Adding transform data to new gameObject
+[15:00:13]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:13]	SUCCESS | Loaded texture "Assets/ButtonEdit.png"
+[15:00:13]	INFO    | +	 Adding button script to new gameObject
+[15:00:13]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:00:13]	        |
+[15:00:13]	        |------------------------------------------------------------------------
+[15:00:13]	        |
+[15:00:13]	INFO    | + Loading Game Object "Button_03"
+[15:00:13]	INFO    | +	 Adding transform data to new gameObject
+[15:00:13]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:14]	SUCCESS | Loaded texture "Assets/ButtonLoad.png"
+[15:00:14]	INFO    | +	 Adding button script to new gameObject
+[15:00:14]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:00:14]	        |
+[15:00:14]	        |------------------------------------------------------------------------
+[15:00:14]	        |
+[15:00:14]	INFO    | + Loading Game Object "Button_04"
+[15:00:14]	INFO    | +	 Adding transform data to new gameObject
+[15:00:14]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:14]	SUCCESS | Loaded texture "Assets/ButtonQuit.png"
+[15:00:14]	INFO    | +	 Adding button script to new gameObject
+[15:00:14]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:00:14]	        |
+[15:00:14]	        |------------------------------------------------------------------------
+[15:00:14]	        |
+[15:00:14]	        |
+[15:00:14]	        |------------------------------------------------------------------------
+[15:00:14]	        |
+[15:00:14]	SUCCESS | Successfully loaded a new scene
+[15:00:14]	        |
+[15:00:14]	        |------------------------------------------------------------------------
+[15:00:14]	        |
+[15:00:15]	INFO    | + Loading Game Object "DirtBlock"
+[15:00:15]	INFO    | +	 Adding transform data to new gameObject
+[15:00:15]	INFO    | + Loading Shaders "Resource/Shader/Default.shad"
+[15:00:15]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:00:15]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:00:15]	SUCCESS | Shader program ->	Successfully linked
+[15:00:15]	        |
+[15:00:15]	        |------------------------------------------------------------------------
+[15:00:15]	        |
+[15:00:15]	INFO    | +	 Adding Model to new gameObject
+[15:00:15]	INFO    | +		 Loading new OBJ file
+[15:00:15]	        |
+[15:00:15]	        |------------------------------------------------------------------------
+[15:00:15]	        |
+[15:00:15]	SUCCESS | Opened file "Assets/wallrock.obj"
+[15:00:15]	SUCCESS | Opened file "Assets/wallrock.mtl"
+[15:00:16]	SUCCESS | Loaded texture "Assets/wall_rock_basecolor.png"
+[15:00:17]	SUCCESS | Opened file "Assets/dirt.mtl"
+[15:00:17]	SUCCESS | Loaded texture "Assets/Dirt_basecolor.png"
+[15:00:17]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:17]	        |
+[15:00:17]	        |------------------------------------------------------------------------
+[15:00:17]	        |
+[15:00:17]	INFO    | + Loading Game Object "StoneWall_1"
+[15:00:17]	INFO    | +	 Adding transform data to new gameObject
+[15:00:17]	INFO    | +	 Adding Model to new gameObject
+[15:00:17]	        |
+[15:00:17]	        |------------------------------------------------------------------------
+[15:00:17]	        |
+[15:00:17]	SUCCESS | Opened file "Assets/wallrock.mtl"
+[15:00:17]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:17]	        |
+[15:00:17]	        |------------------------------------------------------------------------
+[15:00:17]	        |
+[15:00:17]	INFO    | + Loading Game Object "StoneWall_2"
+[15:00:17]	INFO    | +	 Adding transform data to new gameObject
+[15:00:17]	INFO    | +	 Adding Model to new gameObject
+[15:00:17]	INFO    | +		 Loading new OBJ file
+[15:00:17]	        |
+[15:00:17]	        |------------------------------------------------------------------------
+[15:00:17]	        |
+[15:00:17]	SUCCESS | Opened file "Assets/dirt.obj"
+[15:00:17]	SUCCESS | Opened file "Assets/dirt.mtl"
+[15:00:17]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:17]	        |
+[15:00:17]	        |------------------------------------------------------------------------
+[15:00:17]	        |
+[15:00:17]	INFO    | + Loading Game Object "SCIFI_Ground_0"
+[15:00:17]	INFO    | +	 Adding transform data to new gameObject
+[15:00:17]	INFO    | +	 Adding Model to new gameObject
+[15:00:17]	INFO    | +		 Loading new OBJ file
+[15:00:17]	        |
+[15:00:17]	        |------------------------------------------------------------------------
+[15:00:17]	        |
+[15:00:17]	SUCCESS | Opened file "Assets/scifi_05.obj"
+[15:00:17]	SUCCESS | Opened file "Assets/scifi_05.mtl"
+[15:00:17]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Concrete_DamagedPaint2_1K_albedo.png"
+[15:00:17]	SUCCESS | Opened file "Assets/scifi_05.mtl"
+[15:00:17]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:17]	        |
+[15:00:17]	        |------------------------------------------------------------------------
+[15:00:17]	        |
+[15:00:17]	INFO    | + Loading Game Object "SCIFI_Ground_1"
+[15:00:18]	INFO    | +	 Adding transform data to new gameObject
+[15:00:18]	INFO    | +	 Adding Model to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | + Loading Game Object "SCIFI_Ground_2"
+[15:00:18]	INFO    | +	 Adding transform data to new gameObject
+[15:00:18]	INFO    | +	 Adding Model to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | + Loading Game Object "SCIFI_Ground_3"
+[15:00:18]	INFO    | +	 Adding transform data to new gameObject
+[15:00:18]	INFO    | +	 Adding Model to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | + Loading Game Object "SCIFI_Ground_4"
+[15:00:18]	INFO    | +	 Adding transform data to new gameObject
+[15:00:18]	INFO    | +	 Adding Model to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | + Loading Game Object "SCIFI_Ground_5"
+[15:00:18]	INFO    | +	 Adding transform data to new gameObject
+[15:00:18]	INFO    | +	 Adding Model to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	INFO    | + Loading Game Object "SCIFI_Plate_0"
+[15:00:18]	INFO    | +	 Adding transform data to new gameObject
+[15:00:18]	INFO    | +	 Adding Model to new gameObject
+[15:00:18]	INFO    | +		 Loading new OBJ file
+[15:00:18]	        |
+[15:00:18]	        |------------------------------------------------------------------------
+[15:00:18]	        |
+[15:00:18]	SUCCESS | Opened file "Assets/scifi_01.obj"
+[15:00:18]	SUCCESS | Opened file "Assets/scifi_01.mtl"
+[15:00:20]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Scifi_Panel_4K_albedo.png"
+[15:00:22]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Scifi_Panel_4K_normal.png"
+[15:00:22]	SUCCESS | Opened file "Assets/scifi_01.mtl"
+[15:00:22]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | + Loading Game Object "SCIFI_Plate_1"
+[15:00:22]	INFO    | +	 Adding transform data to new gameObject
+[15:00:22]	INFO    | +	 Adding Model to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | + Loading Game Object "SCIFI_Plate_2"
+[15:00:22]	INFO    | +	 Adding transform data to new gameObject
+[15:00:22]	INFO    | +	 Adding Model to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | + Loading Game Object "SCIFI_Plate_4"
+[15:00:22]	INFO    | +	 Adding transform data to new gameObject
+[15:00:22]	INFO    | +	 Adding Model to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | + Loading Game Object "SCIFI_Plate_5"
+[15:00:22]	INFO    | +	 Adding transform data to new gameObject
+[15:00:22]	INFO    | +	 Adding Model to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | + Loading Game Object "SCIFI_Plate_6"
+[15:00:22]	INFO    | +	 Adding transform data to new gameObject
+[15:00:22]	INFO    | +	 Adding Model to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	INFO    | + Loading Game Object "SCIFI_Fabric_0"
+[15:00:22]	INFO    | +	 Adding transform data to new gameObject
+[15:00:22]	INFO    | +	 Adding Model to new gameObject
+[15:00:22]	INFO    | +		 Loading new OBJ file
+[15:00:22]	        |
+[15:00:22]	        |------------------------------------------------------------------------
+[15:00:22]	        |
+[15:00:22]	SUCCESS | Opened file "Assets/scifi_02.obj"
+[15:00:22]	SUCCESS | Opened file "Assets/scifi_02.mtl"
+[15:00:23]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Fabric_1K_albedo.png"
+[15:00:23]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Fabric_1K_normal.png"
+[15:00:23]	SUCCESS | Opened file "Assets/scifi_02.mtl"
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Fabric_1"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Fabric_2"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Fabric_5"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Floor_Ramp_0"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	INFO    | +		 Loading new OBJ file
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	SUCCESS | Opened file "Assets/scifi_03.obj"
+[15:00:23]	SUCCESS | Opened file "Assets/scifi_03.mtl"
+[15:00:23]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Scifi_Floor2_1K_albedo.png"
+[15:00:23]	SUCCESS | Opened file "Assets/scifi_03.mtl"
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Floor_Ramp_1"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Floor_Ramp_2"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Floor_Ramp_3"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | + Loading Game Object "SCIFI_Floor_Ramp_4"
+[15:00:23]	INFO    | +	 Adding transform data to new gameObject
+[15:00:23]	INFO    | +	 Adding Model to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:23]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:23]	        |
+[15:00:23]	        |------------------------------------------------------------------------
+[15:00:23]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Floor_Ramp_5"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Floor_0"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	INFO    | +		 Loading new OBJ file
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	SUCCESS | Opened file "Assets/scifi_04.obj"
+[15:00:24]	SUCCESS | Opened file "Assets/scifi_04.mtl"
+[15:00:24]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Scifi_Floor4_1K_albedo.png"
+[15:00:24]	SUCCESS | Opened file "Assets/scifi_04.mtl"
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Floor_1"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Floor_2"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Floor_3"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Brick_0"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	INFO    | +		 Loading new OBJ file
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	SUCCESS | Opened file "Assets/scifi_06.obj"
+[15:00:24]	SUCCESS | Opened file "Assets/scifi_06.mtl"
+[15:00:24]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Concrete_BrickWall_1K_albedo.png"
+[15:00:24]	SUCCESS | Opened file "Assets/scifi_06.mtl"
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Brick_1"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Brick_2"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:24]	INFO    | + Loading Game Object "SCIFI_Brick_3"
+[15:00:24]	INFO    | +	 Adding transform data to new gameObject
+[15:00:24]	INFO    | +	 Adding Model to new gameObject
+[15:00:24]	        |
+[15:00:24]	        |------------------------------------------------------------------------
+[15:00:24]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Brick_4"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Brick_5"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Brick_6"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Brick_7"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Brick_8"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Damage_0"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	INFO    | +		 Loading new OBJ file
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	SUCCESS | Opened file "Assets/scifi_07.obj"
+[15:00:25]	SUCCESS | Opened file "Assets/scifi_07.mtl"
+[15:00:25]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Concrete_Damaged_1K_albedo.png"
+[15:00:25]	SUCCESS | Opened file "Assets/scifi_07.mtl"
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Damage_1"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Damage_2"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "SCIFI_Damage_3"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	INFO    | + Loading Game Object "AmmoBox"
+[15:00:25]	INFO    | +	 Adding transform data to new gameObject
+[15:00:25]	INFO    | +	 Adding Model to new gameObject
+[15:00:25]	INFO    | +		 Loading new OBJ file
+[15:00:25]	        |
+[15:00:25]	        |------------------------------------------------------------------------
+[15:00:25]	        |
+[15:00:25]	SUCCESS | Opened file "Assets/Ammo/ammo-box.obj"
+[15:00:25]	SUCCESS | Opened file "Assets/Ammo/ammo-box.mtl"
+[15:00:26]	SUCCESS | Loaded texture "Assets/Ammo/Ammo_Box_color.png"
+[15:00:26]	SUCCESS | Opened file "Assets/Ammo/ammo-box.mtl"
+[15:00:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | + Loading Game Object "AmmoBoxE"
+[15:00:26]	INFO    | +	 Adding transform data to new gameObject
+[15:00:26]	INFO    | + Loading Shaders "Resource/Shader/Particle.shad"
+[15:00:26]	SUCCESS | Vertex Shader ->	Successfully compiled
+[15:00:26]	SUCCESS | Fragment Shader ->	Successfully compiled
+[15:00:26]	SUCCESS | Shader program ->	Successfully linked
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:26]	SUCCESS | Opened file "Assets/ammo_popup.mtl"
+[15:00:26]	SUCCESS | Loaded texture "Assets/pickup_popup.png"
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | + Loading Game Object "AmmoBox1"
+[15:00:26]	INFO    | +	 Adding transform data to new gameObject
+[15:00:26]	INFO    | +	 Adding Model to new gameObject
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | + Loading Game Object "AmmoBoxE1"
+[15:00:26]	INFO    | +	 Adding transform data to new gameObject
+[15:00:26]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:26]	SUCCESS | Opened file "Assets/ammo_popup.mtl"
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | + Loading Game Object "AmmoBox2"
+[15:00:26]	INFO    | +	 Adding transform data to new gameObject
+[15:00:26]	INFO    | +	 Adding Model to new gameObject
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:26]	INFO    | + Loading Game Object "AmmoBoxE2"
+[15:00:26]	INFO    | +	 Adding transform data to new gameObject
+[15:00:26]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:26]	SUCCESS | Opened file "Assets/ammo_popup.mtl"
+[15:00:26]	        |
+[15:00:26]	        |------------------------------------------------------------------------
+[15:00:26]	        |
+[15:00:27]	INFO    | + Loading Game Object "AmmoBox3"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	INFO    | +	 Adding Model to new gameObject
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | + Loading Game Object "AmmoBoxE3"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:27]	SUCCESS | Opened file "Assets/ammo_popup.mtl"
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | + Loading Game Object "Player"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	INFO    | +	 Adding player script to new gameObject
+[15:00:27]	INFO    | +	 Adding light to new gameObject
+[15:00:27]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | + Loading Game Object "PlayerGFX"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	INFO    | +	 Adding Model to new gameObject
+[15:00:27]	INFO    | +		 Loading new OBJ file
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	SUCCESS | Opened file "Assets/Shapes/sphere.obj"
+[15:00:27]	SUCCESS | Opened file "Assets/Shapes/sphere.mtl"
+[15:00:27]	ERROR   | Failed to open file "0"
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | + Loading Game Object "PlayerCameraPivot"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | + Loading Game Object "Main_Camera"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	INFO    | +	 Adding camera to new gameObject
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | + Loading Game Object "Rifle"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:27]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:27]	SUCCESS | Loaded texture "Assets/smoke_particle.png"
+[15:00:27]	INFO    | +	 Adding weapon script to new gameObject
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	INFO    | + Loading Game Object "GunBody01.002_Mesh.004"
+[15:00:27]	INFO    | +	 Adding transform data to new gameObject
+[15:00:27]	INFO    | +	 Adding Model to new gameObject
+[15:00:27]	INFO    | +		 Loading new OBJ file
+[15:00:27]	        |
+[15:00:27]	        |------------------------------------------------------------------------
+[15:00:27]	        |
+[15:00:27]	SUCCESS | Opened file "Assets/Weapon/rifle.obj"
+[15:00:27]	SUCCESS | Opened file "Assets/Weapon/rifle.mtl"
+[15:00:28]	SUCCESS | Loaded texture "Assets/Weapon/T_GunBody01__albedo.jpg"
+[15:00:28]	SUCCESS | Opened file "Assets/Weapon/rifle.mtl"
+[15:00:28]	        |
+[15:00:28]	        |------------------------------------------------------------------------
+[15:00:28]	        |
+[15:00:28]	INFO    | + Loading Game Object "Reticule"
+[15:00:28]	INFO    | +	 Adding transform data to new gameObject
+[15:00:28]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:28]	SUCCESS | Loaded texture "Assets/Reticule.png"
+[15:00:28]	        |
+[15:00:28]	        |------------------------------------------------------------------------
+[15:00:28]	        |
+[15:00:28]	INFO    | + Loading Game Object "LifeHUD"
+[15:00:28]	INFO    | +	 Adding transform data to new gameObject
+[15:00:28]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:28]	SUCCESS | Loaded texture "Assets/HUD_Quadran.png"
+[15:00:28]	        |
+[15:00:28]	        |------------------------------------------------------------------------
+[15:00:28]	        |
+[15:00:28]	INFO    | + Loading Game Object "AmmoHUD"
+[15:00:28]	INFO    | +	 Adding transform data to new gameObject
+[15:00:28]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:28]	        |
+[15:00:28]	        |------------------------------------------------------------------------
+[15:00:28]	        |
+[15:00:28]	INFO    | + Loading Game Object "Sun_Light_01"
+[15:00:28]	INFO    | +	 Adding transform data to new gameObject
+[15:00:28]	INFO    | +	 Adding light to new gameObject
+[15:00:28]	        |
+[15:00:28]	        |------------------------------------------------------------------------
+[15:00:28]	        |
+[15:00:28]	INFO    | + Loading Game Object "Sun_Light_02"
+[15:00:28]	INFO    | +	 Adding transform data to new gameObject
+[15:00:28]	INFO    | +	 Adding light to new gameObject
+[15:00:28]	        |
+[15:00:28]	        |------------------------------------------------------------------------
+[15:00:28]	        |
+[15:00:28]	INFO    | + Loading Game Object "Light_01"
+[15:00:28]	INFO    | +	 Adding transform data to new gameObject
+[15:00:28]	INFO    | +	 Adding light to new gameObject
+[15:00:28]	        |
+[15:00:28]	        |------------------------------------------------------------------------
+[15:00:28]	        |
+[15:00:28]	INFO    | + Loading Game Object "Light_02"
+[15:00:28]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding light to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Light_03"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding light to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Light_04"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding light to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Light_05"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding light to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Light_06"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding light to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Light_07"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding light to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Light_08"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding light to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Button_01"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:29]	SUCCESS | Loaded texture "Assets/ButtonResume.png"
+[15:00:29]	INFO    | +	 Adding button script to new gameObject
+[15:00:29]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Button_02"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:29]	SUCCESS | Loaded texture "Assets/ButtonSave.png"
+[15:00:29]	INFO    | +	 Adding button script to new gameObject
+[15:00:29]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Button_03"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding Sprite to new gameObject
+[15:00:29]	SUCCESS | Loaded texture "Assets/ButtonBack.png"
+[15:00:29]	INFO    | +	 Adding button script to new gameObject
+[15:00:29]	INFO    | +	 Adding box collider 2D to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Menu"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	INFO    | + Loading Game Object "Container_0"
+[15:00:29]	INFO    | +	 Adding transform data to new gameObject
+[15:00:29]	INFO    | +	 Adding Model to new gameObject
+[15:00:29]	INFO    | +		 Loading new OBJ file
+[15:00:29]	        |
+[15:00:29]	        |------------------------------------------------------------------------
+[15:00:29]	        |
+[15:00:29]	SUCCESS | Opened file "Assets/Container/Container.obj"
+[15:00:29]	SUCCESS | Opened file "Assets/Container/Container.mtl"
+[15:00:32]	SUCCESS | Loaded texture "Assets/Container/LP_DefaultMaterial_BaseColor.png"
+[15:00:32]	SUCCESS | Opened file "Assets/Container/Container.mtl"
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_1"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_2"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_3"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_4"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_5"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_6"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_7"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_8"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | + Loading Game Object "Container_9"
+[15:00:32]	INFO    | +	 Adding transform data to new gameObject
+[15:00:32]	INFO    | +	 Adding Model to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:32]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:32]	        |
+[15:00:32]	        |------------------------------------------------------------------------
+[15:00:32]	        |
+[15:00:33]	INFO    | + Loading Game Object "Container_10"
+[15:00:33]	INFO    | +	 Adding transform data to new gameObject
+[15:00:33]	INFO    | +	 Adding Model to new gameObject
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	INFO    | + Loading Game Object "Container_11"
+[15:00:33]	INFO    | +	 Adding transform data to new gameObject
+[15:00:33]	INFO    | +	 Adding Model to new gameObject
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	INFO    | + Loading Game Object "Container_12"
+[15:00:33]	INFO    | +	 Adding transform data to new gameObject
+[15:00:33]	INFO    | +	 Adding Model to new gameObject
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	INFO    | + Loading Game Object "Enemy"
+[15:00:33]	INFO    | +	 Adding transform data to new gameObject
+[15:00:33]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:33]	INFO    | +	 Adding light to new gameObject
+[15:00:33]	INFO    | +	 Adding player script to new gameObject
+[15:00:33]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:33]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:33]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	INFO    | + Loading Game Object "EnemyGFX"
+[15:00:33]	INFO    | +	 Adding transform data to new gameObject
+[15:00:33]	INFO    | +	 Adding Model to new gameObject
+[15:00:33]	INFO    | +		 Loading new OBJ file
+[15:00:33]	        |
+[15:00:33]	        |------------------------------------------------------------------------
+[15:00:33]	        |
+[15:00:33]	SUCCESS | Opened file "Assets/R2/R2.obj"
+[15:00:33]	SUCCESS | Opened file "Assets/R2/R2.mtl"
+[15:00:40]	SUCCESS | Loaded texture "Assets/R2/R2Tex.jpg"
+[15:00:41]	SUCCESS | Opened file "Assets/R2/R2.mtl"
+[15:00:41]	        |
+[15:00:41]	        |------------------------------------------------------------------------
+[15:00:41]	        |
+[15:00:41]	INFO    | + Loading Game Object "Enemy0"
+[15:00:41]	INFO    | +	 Adding transform data to new gameObject
+[15:00:41]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:41]	INFO    | +	 Adding light to new gameObject
+[15:00:41]	INFO    | +	 Adding player script to new gameObject
+[15:00:41]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:41]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:41]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:41]	        |
+[15:00:41]	        |------------------------------------------------------------------------
+[15:00:41]	        |
+[15:00:41]	INFO    | + Loading Game Object "EnemyGFX0"
+[15:00:41]	INFO    | +	 Adding transform data to new gameObject
+[15:00:41]	INFO    | +	 Adding Model to new gameObject
+[15:00:41]	        |
+[15:00:41]	        |------------------------------------------------------------------------
+[15:00:41]	        |
+[15:00:41]	        |
+[15:00:41]	        |------------------------------------------------------------------------
+[15:00:41]	        |
+[15:00:41]	INFO    | + Loading Game Object "Enemy1"
+[15:00:41]	INFO    | +	 Adding transform data to new gameObject
+[15:00:41]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:41]	INFO    | +	 Adding light to new gameObject
+[15:00:41]	INFO    | +	 Adding player script to new gameObject
+[15:00:41]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:41]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:41]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:41]	        |
+[15:00:41]	        |------------------------------------------------------------------------
+[15:00:41]	        |
+[15:00:41]	INFO    | + Loading Game Object "EnemyGFX1"
+[15:00:41]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding Model to new gameObject
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "Enemy2"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding light to new gameObject
+[15:00:42]	INFO    | +	 Adding player script to new gameObject
+[15:00:42]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:42]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "EnemyGFX2"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding Model to new gameObject
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "Enemy3"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding light to new gameObject
+[15:00:42]	INFO    | +	 Adding player script to new gameObject
+[15:00:42]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:42]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "EnemyGFX3"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding Model to new gameObject
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "Enemy4"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding light to new gameObject
+[15:00:42]	INFO    | +	 Adding player script to new gameObject
+[15:00:42]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:42]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "EnemyGFX4"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding Model to new gameObject
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "Enemy5"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding light to new gameObject
+[15:00:42]	INFO    | +	 Adding player script to new gameObject
+[15:00:42]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:42]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "EnemyGFX5"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding Model to new gameObject
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "Enemy6"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:42]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding light to new gameObject
+[15:00:42]	INFO    | +	 Adding player script to new gameObject
+[15:00:42]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:42]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:42]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:42]	        |
+[15:00:42]	        |------------------------------------------------------------------------
+[15:00:42]	        |
+[15:00:42]	INFO    | + Loading Game Object "EnemyGFX6"
+[15:00:42]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding Model to new gameObject
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "Enemy7"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding light to new gameObject
+[15:00:43]	INFO    | +	 Adding player script to new gameObject
+[15:00:43]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:43]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "EnemyGFX7"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding Model to new gameObject
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "Enemy8"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding light to new gameObject
+[15:00:43]	INFO    | +	 Adding player script to new gameObject
+[15:00:43]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:43]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "EnemyGFX8"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding Model to new gameObject
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "Enemy9"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding light to new gameObject
+[15:00:43]	INFO    | +	 Adding player script to new gameObject
+[15:00:43]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:43]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "EnemyGFX9"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding Model to new gameObject
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "Enemy10"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding light to new gameObject
+[15:00:43]	INFO    | +	 Adding player script to new gameObject
+[15:00:43]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:43]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "EnemyGFX10"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding Model to new gameObject
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "Enemy11"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:43]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding light to new gameObject
+[15:00:43]	INFO    | +	 Adding player script to new gameObject
+[15:00:43]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:43]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:43]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:43]	        |
+[15:00:43]	        |------------------------------------------------------------------------
+[15:00:43]	        |
+[15:00:43]	INFO    | + Loading Game Object "EnemyGFX11"
+[15:00:43]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding Model to new gameObject
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "Enemy12"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding light to new gameObject
+[15:00:44]	INFO    | +	 Adding player script to new gameObject
+[15:00:44]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:44]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "EnemyGFX12"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding Model to new gameObject
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "Enemy13"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding light to new gameObject
+[15:00:44]	INFO    | +	 Adding player script to new gameObject
+[15:00:44]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:44]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "EnemyGFX13"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding Model to new gameObject
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "Enemy14"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding light to new gameObject
+[15:00:44]	INFO    | +	 Adding player script to new gameObject
+[15:00:44]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:44]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "EnemyGFX14"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding Model to new gameObject
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "Boss0"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding light to new gameObject
+[15:00:44]	INFO    | +	 Adding player script to new gameObject
+[15:00:44]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:44]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:44]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	INFO    | + Loading Game Object "CyclopGFX0"
+[15:00:44]	INFO    | +	 Adding transform data to new gameObject
+[15:00:44]	INFO    | +	 Adding Model to new gameObject
+[15:00:44]	INFO    | +		 Loading new OBJ file
+[15:00:44]	        |
+[15:00:44]	        |------------------------------------------------------------------------
+[15:00:44]	        |
+[15:00:44]	SUCCESS | Opened file "Assets/boss/Cyclops.obj"
+[15:00:44]	SUCCESS | Opened file "Assets/boss/Cyclops.mtl"
+[15:00:47]	SUCCESS | Loaded texture "Assets/boss/Cyclops_Texture.png"
+[15:00:47]	SUCCESS | Opened file "Assets/boss/Cyclops.mtl"
+[15:00:47]	        |
+[15:00:47]	        |------------------------------------------------------------------------
+[15:00:47]	        |
+[15:00:47]	INFO    | + Loading Game Object "Boss1"
+[15:00:47]	INFO    | +	 Adding transform data to new gameObject
+[15:00:47]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:47]	INFO    | +	 Adding light to new gameObject
+[15:00:47]	INFO    | +	 Adding player script to new gameObject
+[15:00:48]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:48]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:48]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "CyclopGFX1"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "Boss2"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[15:00:48]	INFO    | +	 Adding light to new gameObject
+[15:00:48]	INFO    | +	 Adding player script to new gameObject
+[15:00:48]	INFO    | +	 Adding box collider 3D to new gameObject
+[15:00:48]	INFO    | +	 Adding Particle System to a new gameObject
+[15:00:48]	SUCCESS | Opened file "Assets/smoke.mtl"
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "CyclopGFX2"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "Vent0"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	INFO    | +		 Loading new OBJ file
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	SUCCESS | Opened file "Assets/boss/scifipanel_obj.obj"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/scifipanel_obj.mtl"
+[15:00:48]	SUCCESS | Loaded texture "Assets/boss/sci_fi_panel_diffuse.png"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/scifipanel_obj.mtl"
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "Vent1"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "Vent2"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "NOE"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	INFO    | +		 Loading new OBJ file
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	SUCCESS | Opened file "Assets/boss/NOE.obj"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/NOE.mtl"
+[15:00:48]	SUCCESS | Loaded texture "Assets/boss/NOE.png"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/NOE.mtl"
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "LANCELOT"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	INFO    | +		 Loading new OBJ file
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	SUCCESS | Opened file "Assets/boss/LANCELOT.obj"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/LANCELOT.mtl"
+[15:00:48]	SUCCESS | Loaded texture "Assets/boss/LANCELOT.png"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/LANCELOT.mtl"
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	INFO    | + Loading Game Object "RAYANNE"
+[15:00:48]	INFO    | +	 Adding transform data to new gameObject
+[15:00:48]	INFO    | +	 Adding Model to new gameObject
+[15:00:48]	INFO    | +		 Loading new OBJ file
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:48]	SUCCESS | Opened file "Assets/boss/RAYANNE.obj"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/RAYANNE.mtl"
+[15:00:48]	SUCCESS | Loaded texture "Assets/boss/RAYANNE.png"
+[15:00:48]	SUCCESS | Opened file "Assets/boss/RAYANNE.mtl"
+[15:00:48]	        |
+[15:00:48]	        |------------------------------------------------------------------------
+[15:00:48]	        |
+[15:00:49]	INFO    | + Loading Game Object "GUI2L"
+[15:00:49]	INFO    | +	 Adding transform data to new gameObject
+[15:00:49]	INFO    | +	 Adding Model to new gameObject
+[15:00:49]	INFO    | +		 Loading new OBJ file
+[15:00:49]	        |
+[15:00:49]	        |------------------------------------------------------------------------
+[15:00:49]	        |
+[15:00:49]	SUCCESS | Opened file "Assets/boss/GUI2L.obj"
+[15:00:49]	SUCCESS | Opened file "Assets/boss/GUI2L.mtl"
+[15:00:49]	SUCCESS | Loaded texture "Assets/boss/GUI2L.png"
+[15:00:49]	SUCCESS | Opened file "Assets/boss/GUI2L.mtl"
+[15:00:49]	        |
+[15:00:49]	        |------------------------------------------------------------------------
+[15:00:49]	        |
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	INFO    | +	 Transform parent found
+[15:00:49]	        |
+[15:00:49]	        |------------------------------------------------------------------------
+[15:00:49]	        |
+[15:00:49]	SUCCESS | Successfully loaded a new scene
+[15:00:49]	        |
+[15:00:49]	        |------------------------------------------------------------------------
+[15:00:49]	        |
+[15:05:58]	INFO    | Saving current scene in "Assets/NewGame.scn"...
+[15:05:58]	SUCCESS | Scene has been saved in "Assets/NewGame.scn"
+[15:06:00]	INFO    | - Destroying Graph
+[15:06:00]	INFO    | - Unloading scene
+[15:06:00]	INFO    | -	 Destroying Object : Button_04
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 2D
+[15:06:00]	INFO    | -		Destroying Component Button
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Button_03
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 2D
+[15:06:00]	INFO    | -		Destroying Component Button
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Button_02
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 2D
+[15:06:00]	INFO    | -		Destroying Component Button
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Button_01
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 2D
+[15:06:00]	INFO    | -		Destroying Component Button
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | - Unloading scene
+[15:06:00]	INFO    | -	 Destroying Object : GUI2L
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component gui2lobj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : RAYANNE
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component rayanneobj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : LANCELOT
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component lancelotobj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : NOE
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component noeobj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Vent2
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component scifipanel_obj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Vent1
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component scifipanel_obj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Vent0
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component scifipanel_obj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : CyclopGFX2
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Cube_Cube.001
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Boss2
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : CyclopGFX1
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Cube_Cube.001
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Boss1
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : CyclopGFX0
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Cube_Cube.001
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Boss0
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX14
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy14
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX13
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy13
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX12
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy12
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX11
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy11
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX10
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy10
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX9
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy9
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX8
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy8
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX7
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy7
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX6
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy6
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX5
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy5
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX4
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy4
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX3
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy3
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX2
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy2
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX1
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy1
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX0
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy0
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : EnemyGFX
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component R2.002
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Enemy
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Enemy
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_12
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_11
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_10
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_9
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_8
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_7
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_6
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_5
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_4
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_3
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_2
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_1
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Container_0
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component containerObj
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Menu
+[15:06:00]	INFO    | -	 Destroying Object : Button_03
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 2D
+[15:06:00]	INFO    | -		Destroying Component Button
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Button_02
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 2D
+[15:06:00]	INFO    | -		Destroying Component Button
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Button_01
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 2D
+[15:06:00]	INFO    | -		Destroying Component Button
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component PauseMenu
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_08
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_07
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_06
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_05
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_04
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_03
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_02
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Light_01
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Sun_Light_02
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Sun_Light_01
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Light
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : AmmoHUD
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : LifeHUD
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Reticule
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Sprite
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : GunBody01.002_Mesh.004
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component GunBody01.002_Mesh.004
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Rifle
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Weapon
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Particle System
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Main_Camera
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Camera
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : PlayerCameraPivot
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : PlayerGFX
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Sphere
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : Player
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Sphere Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component RigidBody 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component Player
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : AmmoBoxE3
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Sprite Billboard
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : AmmoBox3
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:00]	INFO    | -		Destroying Component 
+[15:06:00]	INFO    | -		Destroying Component AmmoBox
+[15:06:00]	        |
+[15:06:00]	        |------------------------------------------------------------------------
+[15:06:00]	        |
+[15:06:00]	INFO    | -	 Destroying Object : AmmoBoxE2
+[15:06:00]	INFO    | -		Destroying Component Transform
+[15:06:00]	INFO    | -		Destroying Component Sprite Billboard
+[15:06:00]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : AmmoBox2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component AmmoBox
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : AmmoBoxE1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Sprite Billboard
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : AmmoBox1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component AmmoBox
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : AmmoBoxE
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Sprite Billboard
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : AmmoBox
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component AmmoBox
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Damage_3
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_07
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Damage_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_07
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Damage_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_07
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Damage_0
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_07
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_8
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_7
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_6
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_5
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_4
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_3
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Brick_0
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_06
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_3
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_04
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_04
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_04
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_0
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_04
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_Ramp_5
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_03
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_Ramp_4
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_03
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_Ramp_3
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_03
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_Ramp_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_03
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_Ramp_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_03
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Floor_Ramp_0
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_03
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Fabric_5
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_02
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Fabric_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_02
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Fabric_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_02
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Fabric_0
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_02
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Plate_6
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_01
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Plate_5
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_01
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Plate_4
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_01
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Plate_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_01
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Plate_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_01
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Plate_0
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_01
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Ground_5
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_05
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Ground_4
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_05
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Ground_3
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_05
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Ground_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_05
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Ground_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_05
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : SCIFI_Ground_0
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component SciFi_05
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : StoneWall_2
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component DirtBlock
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : StoneWall_1
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component WallBlock
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -	 Destroying Object : DirtBlock
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component Box Collider 3D
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | -		Destroying Component WallBlock
+[15:06:01]	        |
+[15:06:01]	        |------------------------------------------------------------------------
+[15:06:01]	        |
+[15:06:01]	INFO    | -		Destroying Component Transform
+[15:06:01]	INFO    | -		Destroying Component 
+[15:06:01]	INFO    | Closing program...

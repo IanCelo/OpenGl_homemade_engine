@@ -1,0 +1,121 @@
+[11:14:17]	SUCCESS | Loaded texture "Assets/none.png"
+[11:14:17]	INFO    | + Loading Shaders "Resource/Shader/PostProcess.shad"
+[11:14:17]	SUCCESS | Vertex shader ->	Successfully compiled
+[11:14:17]	SUCCESS | Fragment shader ->	Successfully compiled
+[11:14:17]	SUCCESS | Shader program ->	Successfully linked
+[11:14:17]	INFO    | + Loading Shaders "Resource/Shader/GaussianBlur.shad"
+[11:14:17]	SUCCESS | Vertex shader ->	Successfully compiled
+[11:14:17]	SUCCESS | Fragment shader ->	Successfully compiled
+[11:14:17]	SUCCESS | Shader program ->	Successfully linked
+[11:14:17]	ERROR   | Failed to open file "".
+[11:14:17]	INFO    | - Unloading scene
+[11:14:17]	        |
+[11:14:17]	        |------------------------------------------------------------------------
+[11:14:17]	        |
+[11:14:17]	ERROR   | Failed to load scene
+[11:14:20]	INFO    | + Loading Game Object "BackGroung"
+[11:14:20]	INFO    | +	 Adding transform data to new gameObject
+[11:14:20]	INFO    | + Loading Shaders "Resource/Shader/Sprite.shad"
+[11:14:20]	SUCCESS | Vertex shader ->	Successfully compiled
+[11:14:20]	SUCCESS | Fragment shader ->	Successfully compiled
+[11:14:20]	SUCCESS | Shader program ->	Successfully linked
+[11:14:20]	INFO    | +	 Adding Sprite to new gameObject
+[11:14:20]	SUCCESS | Loaded texture "Assets/BlankSprite.png"
+[11:14:20]	        |
+[11:14:20]	        |------------------------------------------------------------------------
+[11:14:20]	        |
+[11:14:20]	INFO    | + Loading Game Object "Button_01"
+[11:14:20]	INFO    | +	 Adding transform data to new gameObject
+[11:14:20]	INFO    | +	 Adding Sprite to new gameObject
+[11:14:20]	SUCCESS | Loaded texture "Assets/ButtonPlay.png"
+[11:14:20]	INFO    | +	 Adding button script to new gameObject
+[11:14:20]	INFO    | +	 Adding box collider 2D to new gameObject
+[11:14:20]	        |
+[11:14:20]	        |------------------------------------------------------------------------
+[11:14:20]	        |
+[11:14:20]	INFO    | + Loading Game Object "Button_02"
+[11:14:20]	INFO    | +	 Adding transform data to new gameObject
+[11:14:20]	INFO    | +	 Adding Sprite to new gameObject
+[11:14:20]	SUCCESS | Loaded texture "Assets/ButtonLoad.png"
+[11:14:20]	INFO    | +	 Adding button script to new gameObject
+[11:14:20]	INFO    | +	 Adding box collider 2D to new gameObject
+[11:14:20]	        |
+[11:14:20]	        |------------------------------------------------------------------------
+[11:14:20]	        |
+[11:14:20]	INFO    | + Loading Game Object "Button_03"
+[11:14:20]	INFO    | +	 Adding transform data to new gameObject
+[11:14:20]	INFO    | +	 Adding Sprite to new gameObject
+[11:14:20]	SUCCESS | Loaded texture "Assets/ButtonQuit.png"
+[11:14:20]	INFO    | +	 Adding button script to new gameObject
+[11:14:20]	INFO    | +	 Adding box collider 2D to new gameObject
+[11:14:20]	        |
+[11:14:20]	        |------------------------------------------------------------------------
+[11:14:20]	        |
+[11:14:20]	INFO    | + Loading Game Object "Loading"
+[11:14:20]	INFO    | +	 Adding transform data to new gameObject
+[11:14:20]	INFO    | +	 Adding Sprite to new gameObject
+[11:14:20]	SUCCESS | Loaded texture "Assets/Loading.png"
+[11:14:20]	        |
+[11:14:20]	        |------------------------------------------------------------------------
+[11:14:20]	        |
+[11:14:20]	INFO    | + Loading Game Object "Loading"
+[11:14:20]	INFO    | +	 Adding transform data to new gameObject
+[11:14:20]	INFO    | +	 Adding Sprite to new gameObject
+[11:14:20]	SUCCESS | Loaded texture "Assets/Loading.png"
+[11:14:20]	        |
+[11:14:20]	        |------------------------------------------------------------------------
+[11:14:20]	        |
+[11:14:20]	INFO    | +	 Transform parent found
+[11:14:20]	INFO    | +	 Transform parent found
+[11:14:20]	        |
+[11:14:20]	        |------------------------------------------------------------------------
+[11:14:20]	        |
+[11:14:20]	SUCCESS | Successfully loaded a new scene
+[11:14:33]	INFO    | - Destroying Graph
+[11:14:33]	INFO    | - Unloading scene
+[11:14:33]	        |
+[11:14:33]	        |------------------------------------------------------------------------
+[11:14:33]	        |
+[11:14:33]	INFO    | -	 Destroying Object : Loading
+[11:14:33]	INFO    | -		Destroying Component Sprite
+[11:14:33]	INFO    | -		Destroying Component Transform
+[11:14:33]	        |
+[11:14:33]	        |------------------------------------------------------------------------
+[11:14:33]	        |
+[11:14:33]	INFO    | -	 Destroying Object : Loading
+[11:14:33]	INFO    | -		Destroying Component Sprite
+[11:14:33]	INFO    | -		Destroying Component Transform
+[11:14:33]	        |
+[11:14:33]	        |------------------------------------------------------------------------
+[11:14:33]	        |
+[11:14:33]	INFO    | -	 Destroying Object : Button_03
+[11:14:33]	INFO    | -		Destroying Component Box Collider 2D
+[11:14:33]	INFO    | -		Destroying Component Button
+[11:14:33]	INFO    | -		Destroying Component Sprite
+[11:14:33]	INFO    | -		Destroying Component Transform
+[11:14:33]	        |
+[11:14:33]	        |------------------------------------------------------------------------
+[11:14:33]	        |
+[11:14:33]	INFO    | -	 Destroying Object : Button_02
+[11:14:33]	INFO    | -		Destroying Component Box Collider 2D
+[11:14:33]	INFO    | -		Destroying Component Button
+[11:14:33]	INFO    | -		Destroying Component Sprite
+[11:14:33]	INFO    | -		Destroying Component Transform
+[11:14:33]	        |
+[11:14:33]	        |------------------------------------------------------------------------
+[11:14:33]	        |
+[11:14:33]	INFO    | -	 Destroying Object : Button_01
+[11:14:33]	INFO    | -		Destroying Component Box Collider 2D
+[11:14:33]	INFO    | -		Destroying Component Button
+[11:14:33]	INFO    | -		Destroying Component Sprite
+[11:14:33]	INFO    | -		Destroying Component Transform
+[11:14:33]	        |
+[11:14:33]	        |------------------------------------------------------------------------
+[11:14:33]	        |
+[11:14:33]	INFO    | -	 Destroying Object : BackGroung
+[11:14:33]	INFO    | -		Destroying Component Sprite
+[11:14:33]	INFO    | -		Destroying Component Transform
+[11:14:33]	        |
+[11:14:33]	        |------------------------------------------------------------------------
+[11:14:33]	        |
+[11:14:33]	INFO    | Closing program...

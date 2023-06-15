@@ -1,0 +1,2975 @@
+[09:56:22]	INFO    | Creating GLFW Window
+[09:56:26]	SUCCESS | Loaded texture "Assets/none.png"
+[09:56:26]	INFO    | + Loading Shaders "Resource/Shader/PostProcess.shad"
+[09:56:26]	SUCCESS | Vertex Shader ->	Successfully compiled
+[09:56:26]	SUCCESS | Fragment Shader ->	Successfully compiled
+[09:56:26]	SUCCESS | Shader program ->	Successfully linked
+[09:56:26]	INFO    | + Loading Shaders "Resource/Shader/GaussianBlur.shad"
+[09:56:26]	SUCCESS | Vertex Shader ->	Successfully compiled
+[09:56:26]	SUCCESS | Fragment Shader ->	Successfully compiled
+[09:56:26]	SUCCESS | Shader program ->	Successfully linked
+[09:56:26]	SUCCESS | Opened file "Assets/defaultCubeMap.cubemap"
+[09:56:36]	INFO    | + Loading Shaders "Resource/Shader/CubeMap.shad"
+[09:56:36]	SUCCESS | Vertex Shader ->	Successfully compiled
+[09:56:36]	SUCCESS | Fragment Shader ->	Successfully compiled
+[09:56:36]	SUCCESS | Shader program ->	Successfully linked
+[09:56:36]	INFO    | + Loading Game Object "Button_01"
+[09:56:36]	INFO    | +	 Adding transform data to new gameObject
+[09:56:36]	INFO    | + Loading Shaders "Resource/Shader/Sprite.shad"
+[09:56:36]	SUCCESS | Vertex Shader ->	Successfully compiled
+[09:56:36]	SUCCESS | Fragment Shader ->	Successfully compiled
+[09:56:36]	SUCCESS | Shader program ->	Successfully linked
+[09:56:36]	INFO    | +	 Adding Sprite to new gameObject
+[09:56:36]	SUCCESS | Loaded texture "Assets/ButtonPlay.png"
+[09:56:36]	INFO    | +	 Adding button script to new gameObject
+[09:56:36]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:56:36]	        |
+[09:56:36]	        |------------------------------------------------------------------------
+[09:56:36]	        |
+[09:56:36]	INFO    | + Loading Game Object "Button_02"
+[09:56:36]	INFO    | +	 Adding transform data to new gameObject
+[09:56:36]	INFO    | +	 Adding Sprite to new gameObject
+[09:56:36]	SUCCESS | Loaded texture "Assets/ButtonEdit.png"
+[09:56:36]	INFO    | +	 Adding button script to new gameObject
+[09:56:36]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:56:36]	        |
+[09:56:36]	        |------------------------------------------------------------------------
+[09:56:36]	        |
+[09:56:36]	INFO    | + Loading Game Object "Button_03"
+[09:56:36]	INFO    | +	 Adding transform data to new gameObject
+[09:56:36]	INFO    | +	 Adding Sprite to new gameObject
+[09:56:37]	SUCCESS | Loaded texture "Assets/ButtonLoad.png"
+[09:56:37]	INFO    | +	 Adding button script to new gameObject
+[09:56:37]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:56:37]	        |
+[09:56:37]	        |------------------------------------------------------------------------
+[09:56:37]	        |
+[09:56:37]	INFO    | + Loading Game Object "Button_04"
+[09:56:37]	INFO    | +	 Adding transform data to new gameObject
+[09:56:37]	INFO    | +	 Adding Sprite to new gameObject
+[09:56:37]	SUCCESS | Loaded texture "Assets/ButtonQuit.png"
+[09:56:37]	INFO    | +	 Adding button script to new gameObject
+[09:56:37]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:56:37]	        |
+[09:56:37]	        |------------------------------------------------------------------------
+[09:56:37]	        |
+[09:56:37]	        |
+[09:56:37]	        |------------------------------------------------------------------------
+[09:56:37]	        |
+[09:56:37]	SUCCESS | Successfully loaded a new scene
+[09:56:37]	        |
+[09:56:37]	        |------------------------------------------------------------------------
+[09:56:37]	        |
+[09:57:12]	INFO    | + Loading Game Object "Wall_SciFi_01"
+[09:57:12]	INFO    | +	 Adding transform data to new gameObject
+[09:57:12]	INFO    | + Loading Shaders "Resource/Shader/Default.shad"
+[09:57:12]	SUCCESS | Vertex Shader ->	Successfully compiled
+[09:57:12]	SUCCESS | Fragment Shader ->	Successfully compiled
+[09:57:12]	SUCCESS | Shader program ->	Successfully linked
+[09:57:12]	INFO    | +	 Adding Model to new gameObject
+[09:57:12]	INFO    | +		 Loading new OBJ file
+[09:57:12]	        |
+[09:57:12]	        |------------------------------------------------------------------------
+[09:57:12]	        |
+[09:57:12]	SUCCESS | Opened file "Assets/scifi_01.obj"
+[09:57:12]	SUCCESS | Opened file "Assets/scifi_01.mtl"
+[09:57:20]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Scifi_Panel_4K_albedo.png"
+[09:57:26]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Scifi_Panel_4K_normal.png"
+[09:57:26]	SUCCESS | Opened file "Assets/scifi_01.mtl"
+[09:57:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | + Loading Game Object "Wall_SciFi_011"
+[09:57:26]	INFO    | +	 Adding transform data to new gameObject
+[09:57:26]	INFO    | +	 Adding Model to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | + Loading Game Object "Wall_SciFi_012"
+[09:57:26]	INFO    | +	 Adding transform data to new gameObject
+[09:57:26]	INFO    | +	 Adding Model to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | + Loading Game Object "Wall_SciFi_013"
+[09:57:26]	INFO    | +	 Adding transform data to new gameObject
+[09:57:26]	INFO    | +	 Adding Model to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | + Loading Game Object "Wall_SciFi_014"
+[09:57:26]	INFO    | +	 Adding transform data to new gameObject
+[09:57:26]	INFO    | +	 Adding Model to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | + Loading Game Object "Wall_SciFi_015"
+[09:57:26]	INFO    | +	 Adding transform data to new gameObject
+[09:57:26]	INFO    | +	 Adding Model to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	INFO    | + Loading Game Object "Wall_SciFi_02"
+[09:57:26]	INFO    | +	 Adding transform data to new gameObject
+[09:57:26]	INFO    | +	 Adding Model to new gameObject
+[09:57:26]	INFO    | +		 Loading new OBJ file
+[09:57:26]	        |
+[09:57:26]	        |------------------------------------------------------------------------
+[09:57:26]	        |
+[09:57:26]	SUCCESS | Opened file "Assets/scifi_02.obj"
+[09:57:26]	SUCCESS | Opened file "Assets/scifi_02.mtl"
+[09:57:27]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Fabric_1K_albedo.png"
+[09:57:28]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Fabric_1K_normal.png"
+[09:57:28]	SUCCESS | Opened file "Assets/scifi_02.mtl"
+[09:57:28]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | + Loading Game Object "Wall_SciFi_021"
+[09:57:28]	INFO    | +	 Adding transform data to new gameObject
+[09:57:28]	INFO    | +	 Adding Model to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | + Loading Game Object "Wall_SciFi_022"
+[09:57:28]	INFO    | +	 Adding transform data to new gameObject
+[09:57:28]	INFO    | +	 Adding Model to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | + Loading Game Object "Wall_SciFi_023"
+[09:57:28]	INFO    | +	 Adding transform data to new gameObject
+[09:57:28]	INFO    | +	 Adding Model to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | + Loading Game Object "Wall_SciFi_024"
+[09:57:28]	INFO    | +	 Adding transform data to new gameObject
+[09:57:28]	INFO    | +	 Adding Model to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | + Loading Game Object "Wall_SciFi_025"
+[09:57:28]	INFO    | +	 Adding transform data to new gameObject
+[09:57:28]	INFO    | +	 Adding Model to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	INFO    | + Loading Game Object "Wall_SciFi_03"
+[09:57:28]	INFO    | +	 Adding transform data to new gameObject
+[09:57:28]	INFO    | +	 Adding Model to new gameObject
+[09:57:28]	INFO    | +		 Loading new OBJ file
+[09:57:28]	        |
+[09:57:28]	        |------------------------------------------------------------------------
+[09:57:28]	        |
+[09:57:28]	SUCCESS | Opened file "Assets/scifi_03.obj"
+[09:57:28]	SUCCESS | Opened file "Assets/scifi_03.mtl"
+[09:57:29]	SUCCESS | Loaded texture "Assets/Textures/TexturesCom_Scifi_Floor2_1K_albedo.png"
+[09:57:29]	SUCCESS | Opened file "Assets/scifi_03.mtl"
+[09:57:29]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | + Loading Game Object "Wall_SciFi_031"
+[09:57:29]	INFO    | +	 Adding transform data to new gameObject
+[09:57:29]	INFO    | +	 Adding Model to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | + Loading Game Object "Wall_SciFi_032"
+[09:57:29]	INFO    | +	 Adding transform data to new gameObject
+[09:57:29]	INFO    | +	 Adding Model to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | + Loading Game Object "Wall_SciFi_033"
+[09:57:29]	INFO    | +	 Adding transform data to new gameObject
+[09:57:29]	INFO    | +	 Adding Model to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | + Loading Game Object "Wall_SciFi_034"
+[09:57:29]	INFO    | +	 Adding transform data to new gameObject
+[09:57:29]	INFO    | +	 Adding Model to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | + Loading Game Object "Wall_SciFi_035"
+[09:57:29]	INFO    | +	 Adding transform data to new gameObject
+[09:57:29]	INFO    | +	 Adding Model to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	INFO    | + Loading Game Object "Box01"
+[09:57:29]	INFO    | +	 Adding transform data to new gameObject
+[09:57:29]	INFO    | +	 Adding Model to new gameObject
+[09:57:29]	INFO    | +		 Loading new OBJ file
+[09:57:29]	        |
+[09:57:29]	        |------------------------------------------------------------------------
+[09:57:29]	        |
+[09:57:29]	SUCCESS | Opened file "Assets/Container/Container.obj"
+[09:57:29]	SUCCESS | Opened file "Assets/Container/Container.mtl"
+[09:57:37]	SUCCESS | Loaded texture "Assets/Container/LP_DefaultMaterial_BaseColor.png"
+[09:57:38]	SUCCESS | Opened file "Assets/Container/Container.mtl"
+[09:57:38]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Box02"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Model to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Box03"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Model to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Player"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding player script to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[09:57:38]	INFO    | + Loading Shaders "Resource/Shader/Particle.shad"
+[09:57:38]	SUCCESS | Vertex Shader ->	Successfully compiled
+[09:57:38]	SUCCESS | Fragment Shader ->	Successfully compiled
+[09:57:38]	SUCCESS | Shader program ->	Successfully linked
+[09:57:38]	INFO    | +	 Adding Particle System to a new gameObject
+[09:57:38]	ERROR   | Failed to open file "sphere_default"
+[09:57:38]	ERROR   | Failed to open file "Resource/Shader//0.15.shad".
+[09:57:38]	INFO    | +	 Adding weapon script to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "PlayerGFX"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Model to new gameObject
+[09:57:38]	INFO    | +		 Loading new OBJ file
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	SUCCESS | Opened file "Assets/Shapes/sphere.obj"
+[09:57:38]	SUCCESS | Opened file "Assets/Shapes/sphere.mtl"
+[09:57:38]	SUCCESS | Opened file "Assets/Shapes/sphere.mtl"
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Main_Camera"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding camera to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Light_01"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Light_02"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Light_03"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Light_04"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Light_05"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Light_06"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "BackGroungPauseMenu"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Sprite to new gameObject
+[09:57:38]	FAILURE | Failed to load texture "Assets/"
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Button_01"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Sprite to new gameObject
+[09:57:38]	INFO    | +	 Adding button script to new gameObject
+[09:57:38]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Button_02"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Sprite to new gameObject
+[09:57:38]	INFO    | +	 Adding button script to new gameObject
+[09:57:38]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Button_03"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Sprite to new gameObject
+[09:57:38]	INFO    | +	 Adding button script to new gameObject
+[09:57:38]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Menu"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Enemy1"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding player script to new gameObject
+[09:57:38]	INFO    | +	 Adding light to new gameObject
+[09:57:38]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[09:57:38]	INFO    | +	 Adding Model to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	INFO    | + Loading Game Object "Enemy1GFX"
+[09:57:38]	INFO    | +	 Adding transform data to new gameObject
+[09:57:38]	INFO    | +	 Adding Model to new gameObject
+[09:57:38]	INFO    | +		 Loading new OBJ file
+[09:57:38]	        |
+[09:57:38]	        |------------------------------------------------------------------------
+[09:57:38]	        |
+[09:57:38]	SUCCESS | Opened file "Assets/R2/R2.obj"
+[09:57:38]	SUCCESS | Opened file "Assets/R2/R2.mtl"
+[09:58:01]	SUCCESS | Loaded texture "Assets/R2/R2Tex.jpg"
+[09:58:14]	SUCCESS | Opened file "Assets/R2/R2.mtl"
+[09:58:14]	        |
+[09:58:14]	        |------------------------------------------------------------------------
+[09:58:14]	        |
+[09:58:14]	INFO    | + Loading Game Object "Enemy2"
+[09:58:14]	INFO    | +	 Adding transform data to new gameObject
+[09:58:14]	INFO    | +	 Adding player script to new gameObject
+[09:58:14]	INFO    | +	 Adding light to new gameObject
+[09:58:14]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[09:58:14]	INFO    | +	 Adding Model to new gameObject
+[09:58:14]	        |
+[09:58:14]	        |------------------------------------------------------------------------
+[09:58:14]	        |
+[09:58:14]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:14]	        |
+[09:58:14]	        |------------------------------------------------------------------------
+[09:58:14]	        |
+[09:58:14]	INFO    | + Loading Game Object "Enemy2GFX"
+[09:58:14]	INFO    | +	 Adding transform data to new gameObject
+[09:58:14]	INFO    | +	 Adding Model to new gameObject
+[09:58:14]	        |
+[09:58:14]	        |------------------------------------------------------------------------
+[09:58:14]	        |
+[09:58:14]	        |
+[09:58:14]	        |------------------------------------------------------------------------
+[09:58:14]	        |
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	INFO    | +	 Transform parent found
+[09:58:14]	        |
+[09:58:14]	        |------------------------------------------------------------------------
+[09:58:14]	        |
+[09:58:14]	SUCCESS | Successfully loaded a new scene
+[09:58:14]	        |
+[09:58:14]	        |------------------------------------------------------------------------
+[09:58:14]	        |
+[09:58:14]	INFO    | Found player
+[09:58:14]	INFO    | Found player
+[09:58:14]	INFO    | -		Destroying Component Transform
+[09:58:14]	INFO    | -		Destroying Component Transform
+[09:58:14]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:16]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:17]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:18]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:19]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:20]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:21]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:22]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:23]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:24]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:25]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:26]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:27]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:28]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | Unloading a scene
+[09:58:29]	INFO    | - Unloading scene
+[09:58:29]	INFO    | -	 Destroying Object : Enemy2GFX
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component R2.002
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Enemy2
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Sphere
+[09:58:29]	INFO    | -		Destroying Component Sphere Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component RigidBody 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Enemy
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Enemy1GFX
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component R2.002
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Enemy1
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Sphere
+[09:58:29]	INFO    | -		Destroying Component Sphere Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component RigidBody 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Enemy
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Menu
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component PauseMenu
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Button_03
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 2D
+[09:58:29]	INFO    | -		Destroying Component Button
+[09:58:29]	INFO    | -		Destroying Component Sprite
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Button_02
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 2D
+[09:58:29]	INFO    | -		Destroying Component Button
+[09:58:29]	INFO    | -		Destroying Component Sprite
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Button_01
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 2D
+[09:58:29]	INFO    | -		Destroying Component Button
+[09:58:29]	INFO    | -		Destroying Component Sprite
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : BackGroungPauseMenu
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Sprite
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Light_06
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Light
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Light_05
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Light
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Light_04
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Light
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Light_03
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Light
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Light_02
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Light
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Light_01
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Light
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Main_Camera
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Camera
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : PlayerGFX
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Sphere
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Player
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Weapon
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Particle System
+[09:58:29]	INFO    | -		Destroying Component Sphere Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component RigidBody 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Player
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Box03
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Military_Container
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Box02
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Military_Container
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Box01
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component Military_Container
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_035
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_03
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_034
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_03
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_033
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_03
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_032
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_03
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_031
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_03
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_03
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_03
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_025
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_02
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_024
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_02
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_023
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_02
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_022
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_02
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_021
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_02
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_02
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_02
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_015
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_01
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_014
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_01
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_013
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_01
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_012
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_01
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_011
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_01
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:29]	INFO    | -	 Destroying Object : Wall_SciFi_01
+[09:58:29]	INFO    | -		Destroying Component Transform
+[09:58:29]	INFO    | -		Destroying Component Box Collider 3D
+[09:58:29]	INFO    | -		Destroying Component 
+[09:58:29]	INFO    | -		Destroying Component SciFi_01
+[09:58:29]	        |
+[09:58:29]	        |------------------------------------------------------------------------
+[09:58:29]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_01"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_011"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_012"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_013"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_014"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_015"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_02"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_021"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_022"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_023"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_024"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_025"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_03"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_031"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_032"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_033"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_034"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Wall_SciFi_035"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Box01"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Box02"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:30]	INFO    | +	 Adding Model to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:30]	        |
+[09:58:30]	        |------------------------------------------------------------------------
+[09:58:30]	        |
+[09:58:30]	INFO    | + Loading Game Object "Box03"
+[09:58:30]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Model to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Player"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding player script to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[09:58:31]	INFO    | +	 Adding Particle System to a new gameObject
+[09:58:31]	ERROR   | Failed to open file "sphere_default"
+[09:58:31]	INFO    | +	 Adding weapon script to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "PlayerGFX"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Model to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Main_Camera"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding camera to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Light_01"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Light_02"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Light_03"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Light_04"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Light_05"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Light_06"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "BackGroungPauseMenu"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Sprite to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Button_01"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Sprite to new gameObject
+[09:58:31]	INFO    | +	 Adding button script to new gameObject
+[09:58:31]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Button_02"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Sprite to new gameObject
+[09:58:31]	INFO    | +	 Adding button script to new gameObject
+[09:58:31]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Button_03"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Sprite to new gameObject
+[09:58:31]	INFO    | +	 Adding button script to new gameObject
+[09:58:31]	INFO    | +	 Adding box collider 2D to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Menu"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Enemy1"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding player script to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[09:58:31]	INFO    | +	 Adding Model to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Enemy1GFX"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Model to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Enemy2"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding player script to new gameObject
+[09:58:31]	INFO    | +	 Adding light to new gameObject
+[09:58:31]	INFO    | +	 Adding sphere collider 3D to new gameObject
+[09:58:31]	INFO    | +	 Adding Model to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | +	 Adding box collider 3D to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | + Loading Game Object "Enemy2GFX"
+[09:58:31]	INFO    | +	 Adding transform data to new gameObject
+[09:58:31]	INFO    | +	 Adding Model to new gameObject
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	INFO    | +	 Transform parent found
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:58:31]	SUCCESS | Successfully loaded a new scene
+[09:58:31]	        |
+[09:58:31]	        |------------------------------------------------------------------------
+[09:58:31]	        |
+[09:59:32]	INFO    | - Destroying Graph
+[09:59:32]	INFO    | - Unloading scene
+[09:59:32]	INFO    | -	 Destroying Object : Button_04
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 2D
+[09:59:32]	INFO    | -		Destroying Component Button
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Button_03
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 2D
+[09:59:32]	INFO    | -		Destroying Component Button
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Button_02
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 2D
+[09:59:32]	INFO    | -		Destroying Component Button
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Button_01
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 2D
+[09:59:32]	INFO    | -		Destroying Component Button
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | - Unloading scene
+[09:59:32]	INFO    | -	 Destroying Object : Enemy2GFX
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component R2.002
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Enemy2
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Sphere
+[09:59:32]	INFO    | -		Destroying Component Sphere Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component RigidBody 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Enemy
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Enemy1GFX
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component R2.002
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Enemy1
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Sphere
+[09:59:32]	INFO    | -		Destroying Component Sphere Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component RigidBody 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Enemy
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Menu
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component PauseMenu
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Button_03
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 2D
+[09:59:32]	INFO    | -		Destroying Component Button
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Button_02
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 2D
+[09:59:32]	INFO    | -		Destroying Component Button
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Button_01
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 2D
+[09:59:32]	INFO    | -		Destroying Component Button
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : BackGroungPauseMenu
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Sprite
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Light_06
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Light
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Light_05
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Light
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Light_04
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Light
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Light_03
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Light
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Light_02
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Light
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Light_01
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Light
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Main_Camera
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Camera
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : PlayerGFX
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Sphere
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Player
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Weapon
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Particle System
+[09:59:32]	INFO    | -		Destroying Component Sphere Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component RigidBody 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Player
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Box03
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Military_Container
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Box02
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Military_Container
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Box01
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component Military_Container
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_035
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_03
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_034
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_03
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_033
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_03
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_032
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_03
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_031
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_03
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_03
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_03
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_025
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_02
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_024
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_02
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_023
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_02
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_022
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_02
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_021
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_02
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_02
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_02
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_015
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_01
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_014
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_01
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_013
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_01
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_012
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_01
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_011
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_01
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | -	 Destroying Object : Wall_SciFi_01
+[09:59:32]	INFO    | -		Destroying Component Transform
+[09:59:32]	INFO    | -		Destroying Component Box Collider 3D
+[09:59:32]	INFO    | -		Destroying Component 
+[09:59:32]	INFO    | -		Destroying Component SciFi_01
+[09:59:32]	        |
+[09:59:32]	        |------------------------------------------------------------------------
+[09:59:32]	        |
+[09:59:32]	INFO    | Closing program...
